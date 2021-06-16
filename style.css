@@ -1,0 +1,24 @@
+
+img{
+    height: 150px;
+    width: 200px;
+}
+table{
+   width: 1200px;
+   margin: 0 auto;
+}
+
+table tr {
+    text-align: center;
+}
+
+ .btn-cont{
+    align-items: center;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    border:ridge;
+ 
+}
+h1{text-align: center;
+margin: 40px;}
